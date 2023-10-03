@@ -1,4 +1,11 @@
-# login_page
+# login_page_using flutter
+-created a login page using different widgets
+-used navigator to route between pages
+-worked with text form field
+-wokred on icon buttons
+-worked with app bar
+-wokred on styling text, gradient
+
 
 A new Flutter project.
 
